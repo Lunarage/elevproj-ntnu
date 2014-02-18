@@ -51,7 +51,8 @@
 #define PORT0          1
 #define MOTOR          (0x100+0)
 
-#define TACO		   (0x000+0)
+//in port 0
+#define TACO		   (0x000+0) //read motor
 
 //non-existing ports (to achieve macro consistency)
 #define FLOOR1_DOWN    -1
