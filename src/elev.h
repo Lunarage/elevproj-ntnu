@@ -8,7 +8,8 @@
 
 // Number of floors
 #define N_FLOORS 4
-
+#define stop_coef   300
+#define analog_speed 2635
 
 /**
   Sets the speed of the elevator. 
